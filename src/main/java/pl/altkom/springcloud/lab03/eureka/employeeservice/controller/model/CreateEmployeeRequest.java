@@ -1,6 +1,6 @@
 package pl.altkom.springcloud.lab03.eureka.employeeservice.controller.model;
 
-import javax.validation.constraints.NotNull;
+import jakarta.validation.constraints.NotNull;
 
 import lombok.Getter;
 
